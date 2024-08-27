@@ -1,0 +1,4 @@
+Going ot check git fetch
+  git merge
+  gei pull
+  git checkout
